@@ -62,10 +62,6 @@ Estou constantemente expandindo meus conhecimentos e desenvolvendo novas habilid
 
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Annacarln&show_icons=true&theme=dracula&bg_color=2f1c2d&title_color=f7a8b8&icon_color=d8a7ca&text_color=ffffff&border_color=f7a8b8&hide_border=false" alt="Estatísticas do GitHub" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annacarln&layout=compact&theme=dracula&bg_color=2f1c2d&title_color=f7a8b8&text_color=ffffff&border_color=f7a8b8&hide_border=false" alt="Linguagens Mais Usadas" />
-
   <br><br>
 
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Annacarln&theme=dracula&background=2f1c2d&ring=f7a8b8&fire=d8a7ca&currStreakNum=ffffff&sideNums=ffffff&sideTitle=f7a8b8&border=f7a8b8" alt="GitHub Streak" />
