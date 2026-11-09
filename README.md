@@ -27,7 +27,7 @@ Seja muito bem-vindo(a) ao meu perfil!
 
 Sou apaixonada por inovação, Cibersegurança e Inteligência Artificial. Adoro aprender coisas novas, resolver problemas complexos e explorar de que forma a tecnologia pode impactar positivamente a vida das pessoas e transformar o mundo. 
 
-Estou constantemente expandindo meus conhecimentos e desenvolvendo novas habilidades na área tech! 🚀
+Estou constantemente expandindo meus conhecimentos e desenvolvendo novas habilidades na área tech! 
 
  **No momento:**
 -  Aprofundando estudos em Tecnologia.
