@@ -57,21 +57,6 @@ Estou constantemente expandindo meus conhecimentos e desenvolvendo novas habilid
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## Minhas Estatísticas no GitHub
-
-<div align="center">
-
-  <br><br>
-
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Annacarln&theme=dracula&background=2f1c2d&ring=f7a8b8&fire=d8a7ca&currStreakNum=ffffff&sideNums=ffffff&sideTitle=f7a8b8&border=f7a8b8" alt="GitHub Streak" />
-
-</div>
-
-<!-- Divisória Estilizada -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 ##  Vamos Conectar?
 
 Vamos conversar sobre tecnologia, oportunidades ou trocar ideias! Sinta-se à vontade para me mandar uma mensagem:
