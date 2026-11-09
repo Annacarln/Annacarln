@@ -96,5 +96,5 @@ Vamos conversar sobre tecnologia, oportunidades ou trocar ideias! Sinta-se à vo
 <br>
 
 <div align="center">
-  <sub><i>Com muito amor e dedicação por Anna Carolina.💖</i></sub>
+  <sub><i>Com muito amor Anna Carolina.💖</i></sub>
 </div>
